@@ -1,4 +1,4 @@
-pid "/home/deploy/guestbook/current/pids/unicorn.pid"
+pid "/home/deploy/guestbook/current/tmp/pids/unicorn.pid"
 stderr_path "/home/deploy/guestbook/current/unicorn/unicorn.log"
 stdout_path "/home/deploy/guestbook/current/unicorn/unicorn.log"
 
